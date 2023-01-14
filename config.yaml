@@ -33,7 +33,7 @@ dns:
     - 112.215.203.254
 proxies:
   - name: 熟悉的
-    server: skartivpn.jomblovip.m
+    server: skartivpn.jomblovip.me
     port: 443
     type: vmess
     uuid: 5874a515-be6d-414e-8343-15d3e19036ac
