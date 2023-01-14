@@ -39,7 +39,7 @@ proxies:
     uuid: 5874a515-be6d-414e-8343-15d3e19036ac
     alterId: 0
     cipher: auto
-    tls: true
+    tls: false
     skip-cert-verify: true
     servername: zoom.us
     network: ws
